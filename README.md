@@ -22,6 +22,7 @@ adb shell am force-stop com.sarlmoclen.demo
 
 # TODO
 
-1.多个热更新的迭代？
+1.多个热更新的迭代？ 
+  class_fix.dex 如果丢失，将会影响修复
 2.热更新的版本管理？
 
